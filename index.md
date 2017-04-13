@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: midnight
 title: Just another personal blog
 ---
 #Hi!
