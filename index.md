@@ -1,6 +1,9 @@
 ---
 layout: midnight
 title: Just another personal blog
+permalink: /index.html
 ---
-#Hi!
+Hi!
+--------
+--------
 I'm Hugo and this is my personal blog.
